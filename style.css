@@ -1,0 +1,175 @@
+body{
+  font-family: arial;
+}
+
+h1{
+   color: white;
+   background-color: #5c5d98;
+   text-align: center;
+}
+
+h2{
+  background-color:#FBFBDA ;
+}
+
+h5{
+  display: flex;
+    flex: 1;
+    justify-content: center;
+    color: #5c5d98;
+}
+
+p{
+font-size: 14px;
+}
+
+a:hover {
+  background-color: ffcc5e ;
+}
+
+
+.logo{
+  width: :40px;
+}
+
+.header{
+  display: flex;
+    flex: 1;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f5d283;
+}
+
+.header-right_links{
+    text-decoration: none;
+    color: #5c5d98;
+    margin: 0 10px;
+}
+
+
+.banner{
+  display: flex;
+    flex: 1;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    vertical-align: 100%;
+}
+
+.img-hero{
+  padding-left: 100px;
+}
+
+.intro{
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #5e5d9c; 
+}
+
+.bandeau{
+  display: flex;
+    flex: 1;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#fbfbda ;
+}
+
+.titre1{
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #426f56; 
+}
+
+#introtitre{
+  color: #5e5d9c; 
+  background-color: white;
+}
+
+.titre2{
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #426f56; 
+}
+
+.livraison{
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #5c5d98;
+}
+
+/*NAVBAR*/
+
+/*BANNER*/
+.pictos{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.picto_content{
+  color: white;
+  margin: 20px;
+}
+
+.picto{
+  width: 80px;
+  height: 80px;
+
+}
+
+.btn-primary {
+  background-color: #f5d283 ;
+  color: white; 
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 60px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.form {
+justify-content: center;
+  background-color: white ;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 30px;
+  text-align: center;
+  color:#5e5d9c;
+}
+
+.block{
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.logors{
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f5d283;
+
+}
+
+.social{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.mainlogo{
+  width: 80px;
+  height: 80px;
+}
+
+
+.carousel_img{
+  height: 300px;
+  object-fit: cover;
+}
+
